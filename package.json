@@ -1,0 +1,39 @@
+{
+  "name": "7zip-examples",
+  "version": "0.1.0",
+  "description": "Node.Js 7-zip usage examples",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Kondakov/7zip-examples.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript",
+    "js",
+    "7zip",
+    "7zz",
+    "7zzs",
+    "7za",
+    "rar",
+    "unrar",
+    "zip",
+    "unzip"
+  ],
+  "author": "Alex Kondakov",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Alex-Kondakov/7zip-examples/issues"
+  },
+  "homepage": "https://github.com/Alex-Kondakov/7zip-examples#readme",
+  "dependencies": {
+    "7zip-binaries": "^0.0.5",
+    "node-7z": "^3.0.0"
+  }
+}
